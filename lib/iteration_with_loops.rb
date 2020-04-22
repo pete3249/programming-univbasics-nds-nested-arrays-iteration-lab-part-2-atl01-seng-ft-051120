@@ -11,7 +11,7 @@ def find_min_in_nested_arrays(src)
   end   
   element_index += 1
   end
-  array_of_daily_low_temps << "daily_low"
+  array_of_daily_low_temps << daily_low
   row_index += 1
 end
 end
